@@ -1,0 +1,16 @@
+{
+  "name": "xeriscoin-sdk",
+  "version": "0.1.0-alpha",
+  "description": "Temporary JavaScript SDK for the XerisCoin Triple Consensus Blockchain",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node examples/basic-usage.js",
+    "demo": "node examples/node-runner.js"
+  },
+  "keywords": ["xeriscoin", "blockchain", "xrs", "sdk"],
+  "author": "earl1749",
+  "license": "MIT",
+  "engines": {
+    "node": ">=15.0.0"
+  }
+}
